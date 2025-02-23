@@ -1,6 +1,6 @@
 # Hi！
 
-Hi there, I'm **Liu Ling**!  ʕ•́ᴥ•̀ʔっ♡ 
+Hi there, I'm **lin**!  ʕ•́ᴥ•̀ʔっ♡ 
 I'm currently pursuing my MSCS at **Northeastern University**. My passions revolve around **gaming**, **AI**, **UI design**, and really anything fun & interesting!
 
 ## Interests
