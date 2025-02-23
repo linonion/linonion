@@ -1,17 +1,14 @@
-# Hi～你好~ ʕ•́ᴥ•̀ʔっ♡
+# Hi！
 
-Hi there, I'm **Liu Ling**! (o^▽^o)  
+Hi there, I'm **Liu Ling**!  ʕ•́ᴥ•̀ʔっ♡ 
 I'm currently pursuing my MSCS at **Northeastern University**. My passions revolve around **gaming**, **AI**, **UI design**, and really anything fun & interesting!
-
-## Some Fun Tidbits
-- **Dream Life**: Waking up to a lovely morning coffee, coding alongside my Bernese buddy, then taking a break to play games together in the living room. 🐶☕🎮
-- **Splatoon Enthusiast**: Fun fact—I've hit **top 5000** in the US Splatoon ranking!  (ꈍᴗꈍ) 
 
 ## Interests
 - 🕹️ **Gaming**
 - 🤖 **AI**
 - 🎨 **UI Design**
-- 🐶 **World famous Puppy lover**
+- 🐶 **World famous Puppy lover** 
+- 🌊 **Splatoon Enthusiast** I've hit **top 5000** in the US ranking！
 - 🌸 ...and any cool, fun, creative endeavors!
 
 ## RPG & Tactics Game Fan
