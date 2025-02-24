@@ -23,9 +23,6 @@ Currently learning **Unity**! If you're up for creating a tactics-game demo, fee
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
-## Tech / Language Distribution
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linonion&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Let's Connect!
 Feel free to email me at:  
