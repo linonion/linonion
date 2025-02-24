@@ -22,3 +22,5 @@ Feel free to contact just for playing game together!
 
 Looking forward to chatting about code, games, doggos, or any other fun adventure! 
 
+## Tech / Language Distribution
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linonion&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
