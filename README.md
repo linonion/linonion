@@ -5,7 +5,6 @@ I'm currently pursuing my MSCS at **Northeastern University**. My passions revol
 
 ## Interests
 - 🕹️ **Gaming**
-- 🤖 **AI**
 - 🎨 **UI Design**
 - 🐶 **World famous Puppy lover** 
 - 🌊 **Splatoon Enthusiast** I've hit **top 5000** in the US ranking！
