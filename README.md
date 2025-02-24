@@ -25,7 +25,7 @@ Currently learning **Unity**! If you're up for creating a tactics-game demo, fee
 
 
 ## Let's Connect!
-Feel free to email me at:  
+email me at:  
 **liuling201030@gmail.com**
 Feel free to contact just for playing game together! 
 
