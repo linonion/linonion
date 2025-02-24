@@ -14,6 +14,15 @@ I'm currently pursuing my MSCS at **Northeastern University**. My passions revol
 I adore **RPG** and **tactical sim** titles (like **Tactics Ogre** and **Fire Emblem**).  
 Currently learning **Unity**! If you're up for creating a tactics-game demo, feel free to reach out!
 
+## 🚀 Programming Languages
+
+- **Python** – 
+- **Java** – 
+- **JavaScript** -
+- **C++** – 
+- **C#** – currently learning for Unity game development!
+
+
 ## Let's Connect!
 Feel free to email me at:  
 **liuling201030@gmail.com**
