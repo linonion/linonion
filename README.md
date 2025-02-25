@@ -23,6 +23,21 @@ Currently learning **Unity**! If you're up for creating a tactics-game demo, fee
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
+## ⚙️ Frameworks & Libraries
+
+<p>
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+
+  <!-- Unity -->
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+</p>
+
+## Tech / Language Distribution
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 email me at:  
