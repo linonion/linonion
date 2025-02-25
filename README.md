@@ -37,7 +37,7 @@ Currently learning **Unity**! If you're up for creating a tactics-game demo, fee
 </p>
 
 ## Tech / Language Distribution
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linonion&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 email me at:  
