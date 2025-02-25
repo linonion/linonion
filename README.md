@@ -36,9 +36,6 @@ Currently learning **Unity**! If you're up for creating a tactics-game demo, fee
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
 
-## Tech / Language Distribution
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linonion&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Let's Connect!
 email me at:  
 **liuling201030@gmail.com**
