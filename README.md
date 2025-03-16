@@ -6,7 +6,7 @@ I'm currently pursuing my MSCS at **Northeastern University**. My passions revol
 ## Interests
 - 🕹️ **Gaming**
 - 🎨 **UI Design**
-- 🐶 **World famous Puppy lover** 
+- 🐶 **World famous Puppy lover. Update: I am a shelties Mom now!** 
 - 🌊 **Splatoon Enthusiast** I've hit **top 5000** in the US ranking！
 - 🌸 ...and any cool, fun, creative endeavors!
 
@@ -39,6 +39,8 @@ Currently learning **Unity**! If you're up for creating a tactics-game demo, fee
 ## Let's Connect!
 email me at:  
 **liuling201030@gmail.com**
+Or reach out via Instagram!
+
 Feel free to contact just for playing game together! 
 
 Looking forward to chatting about code, games, doggos, or any other fun adventure! 
